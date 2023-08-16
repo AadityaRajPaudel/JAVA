@@ -1,0 +1,10 @@
+Wrapper Class: Corresponding class of primitive data types
+
+int -> Integer
+float -> Float
+boolean -> Boolean
+char -> Character
+
+Autoboxing and Unboxing :
+
+Autoboxing -> Converting primitive datatype to Wrapper class object
